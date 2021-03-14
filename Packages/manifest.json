@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.unity.addressables": "1.16.16",
     "com.unity.ide.rider": "2.0.7",
     "com.unity.render-pipelines.universal": "10.3.2",
     "com.unity.test-framework": "1.1.24",
