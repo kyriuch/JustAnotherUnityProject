@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5b78457-55e8-4625-9829-558686f44c8c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/42A5878C-E129-4030-83AC-CCF18E43363F/cc/a5da24d3/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.addressables@1.16.16/Runtime/AssetReference.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/62FFEEB7-EC02-4BEA-B61E-5FBF8D44AC5B/88/c964e42d/ISerializable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2348FB5E-CC9E-4E68-9F37-F7D7FADAEA9A/8f/3898767b/DOTweenSettings.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/42A5878C-E129-4030-83AC-CCF18E43363F/d8/0b77d67b/Scene.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/JustAnotherUnityProject/Common/Scripts/IInitializableAsync.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/42A5878C-E129-4030-83AC-CCF18E43363F/ee/29968c9d/Behaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E90BEB44-6898-4ECF-B706-59AC067ECC5C/6b/2704da16/TaskExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.addressables@1.16.16/Runtime/ResourceManager/AsyncOperations/AsyncOperationHandle.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EAE584CE-26BC-4022-9C1B-1AA476BFA589/12/24134183/SynchronizationContextAwaitTaskContinuation.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/62FFEEB7-EC02-4BEA-B61E-5FBF8D44AC5B/6b/7d188908/Task.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/JustAnotherUnityProject/Common/Scripts/ExtenjectInstaller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.cysharp.unitask@18f2746f0d/Runtime/UniTaskObservableExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/JustAnotherUnityProject/Common/Scripts/ServerPlayerProfile.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/26B64A73-0880-4ECD-9A6B-A47100FB31F4/03/5d186747/UnityWebRequest.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/JustAnotherUnityProject/Common/Scripts/StaticExtensions/AsyncOperationHandleExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/42A5878C-E129-4030-83AC-CCF18E43363F/9d/796dfb6a/Component.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/62FFEEB7-EC02-4BEA-B61E-5FBF8D44AC5B/4e/316c2461/Array.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A131D176-DDE5-4E3B-9331-A794355187DC/48/d1b0b4e5/DOTweenUtilityWindow.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/JustAnotherUnityProject/SplashScreen/SplashScreen_Scripts/SplashScreenAnimation.cs" />
+      <option value="$PROJECT_DIR$/Assets/JustAnotherUnityProject/SplashScreen/SplashScreen_Scripts/GameBootstrap.cs" />
+      <option value="$PROJECT_DIR$/Assets/JustAnotherUnityProject/Common/Scripts/StaticExtensions/Task.cs" />
+      <option value="$PROJECT_DIR$/Assets/JustAnotherUnityProject/Common/Scripts/PersistentContainer.cs" />
+      <option value="$PROJECT_DIR$/Assets/JustAnotherUnityProject/Common/Scripts/StaticExtensions/TaskExtensions.cs" />
+      <option value="$PROJECT_DIR$/Assets/JustAnotherUnityProject/Common/Scripts/StaticExtensions/StringExtensions.cs" />
+      <option value="$PROJECT_DIR$/Assets/JustAnotherUnityProject/SplashScreenScene/Scripts/GameBootstrap.cs" />
+      <option value="$PROJECT_DIR$/Assets/JustAnotherUnityProject/Common/Scripts/StaticExtensions/AsyncOperationHandleExtensions.cs" />
+      <option value="$PROJECT_DIR$/Assets/JustAnotherUnityProject/Common/Scripts/StaticExtensions/TaskExt.cs" />
+      <option value="$PROJECT_DIR$/Assets/JustAnotherUnityProject/Common/Scripts/StaticExtensions/XORExtensions.cs" />
+      <option value="$PROJECT_DIR$/Assets/JustAnotherUnityProject/IntroScene/Scripts/GameBootstrap.cs" />
+      <option value="$PROJECT_DIR$/Assets/JustAnotherUnityProject/Common/Scripts/IInitializable.cs" />
+      <option value="$PROJECT_DIR$/Assets/JustAnotherUnityProject/Common/Scripts/IInitializableAsync.cs" />
+      <option value="$PROJECT_DIR$/Assets/JustAnotherUnityProject/Common/Scripts/ExtenjectInstaller.cs" />
+      <option value="$PROJECT_DIR$/Assets/JustAnotherUnityProject/LoadingScene/Scripts/LoadingManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/JustAnotherUnityProject/Common/Scripts/PersistentValue.cs" />
+      <option value="$PROJECT_DIR$/Assets/Plugins/Zenject/Source/Install/MonoInstallerBase.cs" />
+      <option value="$PROJECT_DIR$/Assets/JustAnotherUnityProject/Common/Scripts/PlayerProfile.cs" />
+      <option value="$PROJECT_DIR$/Assets/JustAnotherUnityProject/Common/Scripts/ServerPlayerProfile.cs" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="1pwn6zjgfHYVBp3NgLoLd5TRVwi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34993774" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.0" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5b78457-55e8-4625-9829-558686f44c8c" name="Default Changelist" comment="" />
+      <created>1616102848230</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616102848230</updated>
+      <workItem from="1616102853505" duration="4092000" />
+      <workItem from="1616144473070" duration="2787000" />
+      <workItem from="1616287952911" duration="3503000" />
+      <workItem from="1616323355909" duration="10364000" />
+      <workItem from="1616359365735" duration="7871000" />
+      <workItem from="1616408589806" duration="1436000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Plugins/Demigiant/DOTweenPro/Editor/DOTweenAnimationInspector.cs</url>
+          <line>275</line>
+          <properties documentPath="C:\Users\kyriuch\Desktop\MyProj\Assets\Plugins\Demigiant\DOTweenPro\Editor\DOTweenAnimationInspector.cs" initialLine="275" containingFunctionPresentation="method 'OnInspectorGUI'">
+            <startOffsets>
+              <option value="12309" />
+            </startOffsets>
+            <endOffsets>
+              <option value="12617" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/JustAnotherUnityProject/Common/Scripts/StaticExtensions/XORExtensions.cs</url>
+          <line>8</line>
+          <properties documentPath="C:\Users\kyriuch\Desktop\MyProj\Assets\JustAnotherUnityProject\Common\Scripts\StaticExtensions\StringExtensions.cs" initialLine="8" containingFunctionPresentation="method 'EncryptDecryptXOR'" />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/JustAnotherUnityProject/Common/Scripts/StaticExtensions/XORExtensions.cs</url>
+          <line>15</line>
+          <properties documentPath="C:\Users\kyriuch\Desktop\MyProj\Assets\JustAnotherUnityProject\Common\Scripts\StaticExtensions\StringExtensions.cs" initialLine="15" containingFunctionPresentation="method 'EncryptDecryptXOR'" />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/JustAnotherUnityProject/Common/Scripts/ServerPlayerProfile.cs</url>
+          <line>39</line>
+          <properties documentPath="C:\Users\kyriuch\Desktop\MyProj\Assets\JustAnotherUnityProject\Common\Scripts\ServerPlayerProfile.cs" initialLine="40" containingFunctionPresentation="method 'Initialize'">
+            <startOffsets>
+              <option value="1170" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1211" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/JustAnotherUnityProject/Common/Scripts/ServerPlayerProfile.cs</url>
+          <line>37</line>
+          <properties documentPath="C:\Users\kyriuch\Desktop\MyProj\Assets\JustAnotherUnityProject\Common\Scripts\ServerPlayerProfile.cs" initialLine="38" containingFunctionPresentation="method 'Initialize'">
+            <startOffsets>
+              <option value="1073" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1152" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
